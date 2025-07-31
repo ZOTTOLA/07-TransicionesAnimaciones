@@ -20,3 +20,14 @@ main {
 .item:hover{
     background-color: lightskyblue;
 }
+
+.parrafoamplio{
+    transition: font-size 300ms ease-out;
+
+}
+
+.parrafoamplio:hover {
+    font-size: larger;
+    cursor: pointer;
+
+}
